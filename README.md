@@ -12,7 +12,7 @@ My main tech stack is react, FastAPI, mySQL.
 FUN FACTS:
   - I love playing soccer.
   - I hate coffee.
-  - I go very often to the gym.
+  - I frequently go to the gym.
 <!--
 **bolachala/bolachala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
