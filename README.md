@@ -7,7 +7,7 @@ I like programming and creating scripts for everything.
 
 This is a collection of most of my major works.
 
-My main tech stack is react, .
+My main tech stack is react, FastAPI, mySQL.
 
 FUN FACTS:
   - I love playing soccer.
